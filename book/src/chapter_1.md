@@ -4,7 +4,7 @@
 
 ## 1.使用模板仓库
 
-- 点击[xx]()右上角`Use this template`在自己的账号下创建新的仓库, 或者直接点击[此连接](https://github.com/new?template_name=xlings-book-template&template_owner=d2learn)
+- 点击[xlings-book-template](https://github.com/d2learn/xlings-book-template)右上角`Use this template`, 在自己的账号下创建新的仓库, 或者直接点击[此连接](https://github.com/new?template_name=xlings-book-template&template_owner=d2learn)
 
 - 在`Repository name`中填写新仓库的名字
 
